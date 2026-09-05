@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Roles -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=720&height=60&lines=🧠+Building+Intelligent+AI+Systems;🤖+LLM+Fine-Tuning+%26+RAG+Architectures;🕸️+Knowledge+Graphs+%26+Neo4j+Expert;⚡+Agentic+AI+%26+Multi-Agent+Frameworks;📊+NLP+Engineer+%7C+Process+Mining;🚀+Turning+Raw+Data+Into+Smart+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=720&height=60&lines=🧠+Building+Intelligent+AI+Systems;🤖+LLM+Fine-Tuning+%26+RAG+Architectures;🕸️+Knowledge+Graphs+%26+Neo4j+Expert;⚡+Agentic+AI+%26+Multi-Agent+Frameworks;📊+NLP+Engineer+%7C+Process+Mining;🚀+Turning+Raw+Data+Into+Smart+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -198,7 +198,15 @@ Extracts structured process flows from event logs with conformance validation. N
 ## 🏆 &nbsp;Achievements & Certifications
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GAUTAMDEORA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+
+![Followers](https://img.shields.io/github/followers/GAUTAMDEORA?label=Followers&style=for-the-badge&color=6e40c9&logo=github)
+&nbsp;
+![Repos](https://img.shields.io/badge/Public%20Repos-16-00d4ff?style=for-the-badge&logo=github&logoColor=white)
+&nbsp;
+![CGPA](https://img.shields.io/badge/CGPA-8.64%20%2F%2010.0-FFD700?style=for-the-badge&logo=academia&logoColor=black)
+&nbsp;
+![Experience](https://img.shields.io/badge/Experience-Data%20Scientist-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+
 </div>
 
 <br/>
