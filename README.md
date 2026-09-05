@@ -1,35 +1,37 @@
 <div align="center">
 
-<!-- Animated Neural Network Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00d4ff&height=220&section=header&text=GAUTAM%20DEORA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20GenAI%20Engineer%20%E2%80%A2%20Agentic%20AI%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00d4ff&height=220&section=header&text=GAUTAM%20DEORA&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20GenAI%20Engineer%20%E2%80%A2%20Agentic%20AI%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Animated Typing Roles -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=🧠+Building+Intelligent+Systems;🤖+LLM+Fine-Tuning+%26+RAG+Architectures;🕸️+Knowledge+Graphs+%26+Neo4j;⚡+Agentic+AI+%26+Multi-Agent+Frameworks;📊+NLP+%2B+Process+Mining+Engineer;🚀+Turning+Data+Into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=720&height=60&lines=🧠+Building+Intelligent+AI+Systems;🤖+LLM+Fine-Tuning+%26+RAG+Architectures;🕸️+Knowledge+Graphs+%26+Neo4j+Expert;⚡+Agentic+AI+%26+Multi-Agent+Frameworks;📊+NLP+Engineer+%7C+Process+Mining;🚀+Turning+Raw+Data+Into+Smart+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=GAUTAMDEORA&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=GAUTAMDEORA&label=Profile+Views&color=6e40c9&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
   <a href="https://linkedin.com/in/gautam-deora-947161268">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:gautamd1610@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-gautamd1610-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20To-Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-<!-- About Section -->
-<img align="right" alt="AI Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ## 🌌 &nbsp;`whoami`
+
+<img align="right" alt="AI Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```python
 class GautamDeora:
@@ -38,19 +40,29 @@ class GautamDeora:
                   "NLP Engineer", "Agentic AI Developer"]
     location   = "Jaipur, India 🇮🇳"
     company    = "Celebal Technologies Pvt. Ltd."
-    education  = "B.E. Computer Engineering @ TIET | CGPA: 8.64"
-    
-    expertise  = {
-        "AI/ML"   : ["LLM Fine-Tuning", "RAG Architectures",
-                     "Agentic AI", "Deep Learning", "NLP"],
-        "Graph"   : ["Neo4j", "Knowledge Graphs", "Cypher"],
-        "Data"    : ["ETL Pipelines", "Process Mining",
-                     "Statistical Analysis", "A/B Testing"],
-        "Cloud"   : ["AWS", "Azure", "Databricks"]
+    education  = {
+        "degree" : "B.E. Computer Engineering",
+        "college": "Thapar Institute of Engineering & Technology",
+        "cgpa"   : 8.64,
+        "special": "Data Science & AI/ML"
     }
-    
-    currently  = "Building Knowledge Graph–powered Healthcare AI 🏥"
+
+    expertise  = {
+        "AI/ML"  : ["LLM Fine-Tuning", "RAG", "Agentic AI",
+                    "Deep Learning", "NLP", "LSTM"],
+        "Graphs" : ["Neo4j", "Knowledge Graphs", "Cypher"],
+        "Data"   : ["ETL Pipelines", "Process Mining",
+                    "Statistical Analysis", "A/B Testing"],
+        "Cloud"  : ["AWS", "Azure", "Databricks"]
+    }
+
+    currently  = "Building KG-powered Healthcare AI 🏥"
     fun_fact   = "I automate things so I can build more things 🤖"
+    impact     = {
+        "manual_time_saved" : "45%",
+        "forecast_accuracy" : "+20%",
+        "query_resolution"  : "-60%"
+    }
 ```
 
 <br clear="right"/>
@@ -61,17 +73,18 @@ class GautamDeora:
 
 <div align="center">
 
-### 🐍 Languages & Data
+### 🐍 &nbsp;Languages & Data Engineering
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-### 🤖 AI / ML / NLP
+### 🤖 &nbsp;AI / ML / GenAI / NLP
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -83,13 +96,15 @@ class GautamDeora:
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁️ &nbsp;Cloud, DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 </div>
@@ -101,46 +116,55 @@ class GautamDeora:
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏥 Healthcare Chatbot — Neo4j + GenAI
 > **Celebal Technologies · 2026**
 
-Knowledge graph–powered receptionist bot using **Groq 120B LLM** for NL-to-Cypher translation. Graph model captures patient demographics, appointments, test results, and billing as semantic nodes.
+Knowledge graph–powered receptionist bot using **Groq 120B LLM** for NL-to-Cypher translation. ETL pipeline on Databricks, FastAPI backend, deployed as a Databricks App.
 
-`Neo4j` `LangChain` `Groq` `FastAPI` `Databricks` `ETL`
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏦 Multi-Agent NBFC Loan System
 > **EY Hackathon · 2026**
 
-Master-Worker multi-agent AI framework with Sales, KYC, Credit Underwriting & Sanction Letter Generator agents. Automated full loan lifecycle with real-time credit scoring.
+Master-Worker multi-agent AI framework — Sales, KYC, Credit Underwriting & Sanction Letter Generator agents. Full loan lifecycle automation with real-time credit scoring.
 
-`Agentic AI` `Multi-Agent` `CRM APIs` `Credit Scoring`
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6e40c9?style=flat-square)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-00d4ff?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📋 AI Income Tax Advisory Chatbot
 > **2025**
 
-NLP-driven RAG chatbot on IT Act documentation using **LangChain + Vector DB**. Reduced query resolution time by **60%** and operational costs by **35%** via domain-specific LLM fine-tuning.
+NLP-driven RAG chatbot on IT Act docs using **LangChain + Vector DB**. Reduced query resolution time by **60%** and operational costs by **35%** via domain-specific LLM fine-tuning.
 
-`RAG` `LangChain` `VectorDB` `NLP` `LLM Fine-Tuning`
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![VectorDB](https://img.shields.io/badge/VectorDB-orange?style=flat-square)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Process Mining & NLP Workflow Engine
 > **2025**
 
-Extracts structured process flows from event logs with conformance validation. NLP layer converts plain-text business descriptions into executable workflows — eliminating manual modelling.
+Extracts structured process flows from event logs with conformance validation. NLP layer converts plain-text business descriptions into executable workflows.
 
-`Process Mining` `NLP` `Event Logs` `Workflow Automation`
+![NLP](https://img.shields.io/badge/NLP-4CAF50?style=flat-square)
+![Process Mining](https://img.shields.io/badge/Process%20Mining-9C27B0?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
@@ -152,16 +176,21 @@ Extracts structured process flows from event logs with conformance validation. N
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GAUTAMDEORA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=00d4ff&text_color=c9d1d9&ring_color=6e40c9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAUTAMDEORA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9"/>
-</div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GAUTAMDEORA&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAUTAMDEORA&theme=tokyonight" width="100%" />
 
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=GAUTAMDEORA&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&hide_border=true" />
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GAUTAMDEORA&theme=tokyonight" width="32%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GAUTAMDEORA&theme=tokyonight" width="32%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GAUTAMDEORA&theme=tokyonight" width="32%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GAUTAMDEORA&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="60%" />
+
 </div>
 
 ---
@@ -175,24 +204,28 @@ Extracts structured process flows from event logs with conformance validation. N
 <br/>
 
 <div align="center">
-<table>
-<tr>
-<td>🏅 <b>EY Hackathon</b> — Multi-Agent AI for NBFC Loan Automation</td>
-<td>🏅 <b>Google Hack4Change</b> — Participant</td>
-</tr>
-<tr>
-<td>📜 <b>Data Analysis in Python – Pandas</b> (Coursera)</td>
-<td>📜 <b>Business Analysis & Process Management</b> (Coursera)</td>
-</tr>
-<tr>
-<td>📜 <b>Investment Risk Management</b> (Coursera)</td>
-<td>📜 <b>Python Bootcamp & Ethical Hacking</b> (Udemy)</td>
-</tr>
-<tr>
-<td>🎓 <b>TIET Merit Scholarship</b> — Academic Excellence | CGPA 8.64</td>
-<td>⚡ <b>45% reduction</b> in manual processing via Agentic AI pipelines</td>
-</tr>
-</table>
+
+| 🏅 Competition | 📜 Certification |
+|:---|:---|
+| **EY Hackathon** — Multi-Agent AI for NBFC | **Data Analysis in Python – Pandas** (Coursera) |
+| **Google Hack4Change** — Participant | **Business Analysis & Process Management** (Coursera) |
+| **TIET Merit Scholarship** — CGPA 8.64 | **Investment Risk Management** (Coursera) |
+| ⚡ **45%** reduction in manual processing | **Python Bootcamp & Ethical Hacking** (Udemy) |
+
+</div>
+
+---
+
+## 📈 &nbsp;Impact at a Glance
+
+<div align="center">
+
+![45% Less Manual Work](https://img.shields.io/badge/Manual%20Processing%20Saved-45%25-brightgreen?style=for-the-badge&logo=checkmarx)
+&nbsp;
+![+20% Forecast Accuracy](https://img.shields.io/badge/Forecast%20Accuracy%20Improved-+20%25-00d4ff?style=for-the-badge&logo=databricks)
+&nbsp;
+![60% Faster Queries](https://img.shields.io/badge/Query%20Resolution%20Faster-60%25-6e40c9?style=for-the-badge&logo=openai)
+
 </div>
 
 ---
@@ -217,15 +250,15 @@ Extracts structured process flows from event logs with conformance validation. N
 
 > *"The best way to predict the future is to build it — one model at a time."*
 
-</div>
+<br/>
 
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GAUTAMDEORA/GAUTAMDEORA/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GAUTAMDEORA/GAUTAMDEORA/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/GAUTAMDEORA/GAUTAMDEORA/output/github-snake-dark.svg" />
-  </picture>
+<!-- Snake Animation (Generated Daily by GitHub Actions) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GAUTAMDEORA/GAUTAMDEORA/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GAUTAMDEORA/GAUTAMDEORA/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/GAUTAMDEORA/GAUTAMDEORA/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 <!-- Footer Wave -->
