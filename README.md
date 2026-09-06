@@ -34,51 +34,7 @@
 
 <div align="center">
 
-> 🔬 *Turning raw data into intelligent decisions, one model at a time.*
-
-</div>
-
-```diff
-@@  git log --author="Gautam Deora" --reverse --oneline  @@
-
-+ [2022]  🎓  Enrolled: B.E. Computer Engineering @ TIET, Patiala
-+ [2023]  📈  Achieved: CGPA 8.64 | Specialization → Data Science & AI/ML
-+ [2024]  🧠  Explored: GenAI · LangChain · Neo4j · Knowledge Graphs · NLP
-+ [2025]  🚀  Shipped:  RAG Tax Bot · Process Mining Engine · mT5 Fine-Tuning
-+ [2026]  💼  Joined:   Celebal Technologies — Intern → Full-Time Data Scientist
-+ [2026]  🏥  Deployed: Healthcare Chatbot (Neo4j + Groq 120B) on Databricks
-+ [2026]  🏆  Won:      EY Hackathon → Multi-Agent NBFC Loan Automation
-+ [2026]  ⚡  Impact:   45% less manual work · +20% forecast accuracy · -60% query time
-+ [NOW]   🔭  Building: The future of AI, one model at a time...
-- TODO:       Touch grass occasionally 🌿
-```
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>🧑‍💻 <b>Name</b></td>
-    <td>Gautam Deora</td>
-    <td>📍 <b>Base</b></td>
-    <td>Jaipur, India 🇮🇳</td>
-  </tr>
-  <tr>
-    <td>🏢 <b>Company</b></td>
-    <td>Celebal Technologies</td>
-    <td>🎓 <b>College</b></td>
-    <td>TIET · CGPA <b>8.64</b></td>
-  </tr>
-  <tr>
-    <td>🤖 <b>Core AI</b></td>
-    <td>LLM · RAG · Agentic AI · Neo4j</td>
-    <td>☁️ <b>Cloud</b></td>
-    <td>AWS · Azure · Databricks</td>
-  </tr>
-  <tr>
-    <td>🔭 <b>Currently</b></td>
-    <td colspan="3">Healthcare Knowledge Graph AI 🏥</td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/GAUTAMDEORA/GAUTAMDEORA/main/about-card.svg" alt="About Gautam Deora" width="100%"/>
 
 </div>
 
