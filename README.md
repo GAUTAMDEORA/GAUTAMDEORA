@@ -29,45 +29,61 @@
 
 ---
 
-## 🌌 &nbsp;`whoami`
 
-<img align="right" alt="AI Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## 🌌 &nbsp;`< WHO AM I />`
 
-```python
-class GautamDeora:
-    name       = "Gautam Deora"
-    role       = ["Data Scientist", "GenAI Engineer",
-                  "NLP Engineer", "Agentic AI Developer"]
-    location   = "Jaipur, India 🇮🇳"
-    company    = "Celebal Technologies Pvt. Ltd."
-    education  = {
-        "degree" : "B.E. Computer Engineering",
-        "college": "Thapar Institute of Engineering & Technology",
-        "cgpa"   : 8.64,
-        "special": "Data Science & AI/ML"
-    }
+<div align="center">
 
-    expertise  = {
-        "AI/ML"  : ["LLM Fine-Tuning", "RAG", "Agentic AI",
-                    "Deep Learning", "NLP", "LSTM"],
-        "Graphs" : ["Neo4j", "Knowledge Graphs", "Cypher"],
-        "Data"   : ["ETL Pipelines", "Process Mining",
-                    "Statistical Analysis", "A/B Testing"],
-        "Cloud"  : ["AWS", "Azure", "Databricks"]
-    }
+> 🔬 *Turning raw data into intelligent decisions, one model at a time.*
 
-    currently  = "Building KG-powered Healthcare AI 🏥"
-    fun_fact   = "I automate things so I can build more things 🤖"
-    impact     = {
-        "manual_time_saved" : "45%",
-        "forecast_accuracy" : "+20%",
-        "query_resolution"  : "-60%"
-    }
+</div>
+
+```diff
+@@  git log --author="Gautam Deora" --reverse --oneline  @@
+
++ [2022]  🎓  Enrolled: B.E. Computer Engineering @ TIET, Patiala
++ [2023]  📈  Achieved: CGPA 8.64 | Specialization → Data Science & AI/ML
++ [2024]  🧠  Explored: GenAI · LangChain · Neo4j · Knowledge Graphs · NLP
++ [2025]  🚀  Shipped:  RAG Tax Bot · Process Mining Engine · mT5 Fine-Tuning
++ [2026]  💼  Joined:   Celebal Technologies — Intern → Full-Time Data Scientist
++ [2026]  🏥  Deployed: Healthcare Chatbot (Neo4j + Groq 120B) on Databricks
++ [2026]  🏆  Won:      EY Hackathon → Multi-Agent NBFC Loan Automation
++ [2026]  ⚡  Impact:   45% less manual work · +20% forecast accuracy · -60% query time
++ [NOW]   🔭  Building: The future of AI, one model at a time...
+- TODO:       Touch grass occasionally 🌿
 ```
 
-<br clear="right"/>
+<div align="center">
+
+<table>
+  <tr>
+    <td>🧑‍💻 <b>Name</b></td>
+    <td>Gautam Deora</td>
+    <td>📍 <b>Base</b></td>
+    <td>Jaipur, India 🇮🇳</td>
+  </tr>
+  <tr>
+    <td>🏢 <b>Company</b></td>
+    <td>Celebal Technologies</td>
+    <td>🎓 <b>College</b></td>
+    <td>TIET · CGPA <b>8.64</b></td>
+  </tr>
+  <tr>
+    <td>🤖 <b>Core AI</b></td>
+    <td>LLM · RAG · Agentic AI · Neo4j</td>
+    <td>☁️ <b>Cloud</b></td>
+    <td>AWS · Azure · Databricks</td>
+  </tr>
+  <tr>
+    <td>🔭 <b>Currently</b></td>
+    <td colspan="3">Healthcare Knowledge Graph AI 🏥</td>
+  </tr>
+</table>
+
+</div>
 
 ---
+
 
 ## ⚡ &nbsp;Tech Arsenal
 
