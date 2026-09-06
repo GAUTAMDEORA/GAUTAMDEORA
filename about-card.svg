@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b27"/>
+    </linearGradient>
+    <linearGradient id="accentH" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#6e40c9"/>
+      <stop offset="100%" stop-color="#00d4ff"/>
+    </linearGradient>
+    <linearGradient id="accentV" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#6e40c9"/>
+      <stop offset="100%" stop-color="#00d4ff"/>
+    </linearGradient>
+    <clipPath id="card">
+      <rect width="900" height="350" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <!-- Background -->
+    <rect width="900" height="350" fill="url(#bg)"/>
+
+    <!-- Ambient blobs -->
+    <circle cx="830" cy="70" r="150" fill="#6e40c9" fill-opacity="0.05"/>
+    <circle cx="780" cy="310" r="110" fill="#00d4ff" fill-opacity="0.04"/>
+    <circle cx="90" cy="310" r="80" fill="#6e40c9" fill-opacity="0.03"/>
+
+    <!-- Dot grid top-right -->
+    <g fill="#6e40c9" fill-opacity="0.2">
+      <circle cx="726" cy="24" r="1.5"/><circle cx="746" cy="24" r="1.5"/><circle cx="766" cy="24" r="1.5"/>
+      <circle cx="786" cy="24" r="1.5"/><circle cx="806" cy="24" r="1.5"/><circle cx="826" cy="24" r="1.5"/>
+      <circle cx="726" cy="44" r="1.5"/><circle cx="746" cy="44" r="1.5"/><circle cx="766" cy="44" r="1.5"/>
+      <circle cx="786" cy="44" r="1.5"/><circle cx="806" cy="44" r="1.5"/><circle cx="826" cy="44" r="1.5"/>
+      <circle cx="726" cy="64" r="1.5"/><circle cx="746" cy="64" r="1.5"/><circle cx="766" cy="64" r="1.5"/>
+      <circle cx="786" cy="64" r="1.5"/><circle cx="806" cy="64" r="1.5"/><circle cx="826" cy="64" r="1.5"/>
+      <circle cx="726" cy="84" r="1.5"/><circle cx="746" cy="84" r="1.5"/><circle cx="766" cy="84" r="1.5"/>
+      <circle cx="786" cy="84" r="1.5"/><circle cx="806" cy="84" r="1.5"/><circle cx="826" cy="84" r="1.5"/>
+    </g>
+
+    <!-- Top accent bar -->
+    <rect x="0" y="0" width="900" height="4" fill="url(#accentH)"/>
+
+    <!-- ── LEFT PANEL ── -->
+    <rect x="46" y="26" width="3" height="300" rx="1.5" fill="url(#accentV)"/>
+
+    <!-- Pulsing ONLINE dot -->
+    <circle cx="66" cy="43" r="5" fill="#00C853">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="78" y="48" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2.5" fill="#00C853">ONLINE</text>
+
+    <!-- Name -->
+    <text x="62" y="96" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="33" font-weight="800" fill="#ffffff" letter-spacing="-0.5">GAUTAM DEORA</text>
+
+    <!-- Role line -->
+    <text x="64" y="123" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="13" fill="#00d4ff" letter-spacing="0.3">Data Scientist  ·  GenAI Engineer  ·  Agentic AI Developer</text>
+
+    <!-- Separator -->
+    <rect x="64" y="136" width="370" height="1" rx="0.5" fill="url(#accentH)" fill-opacity="0.5"/>
+
+    <!-- Info rows -->
+    <!-- Company -->
+    <rect x="64" y="149" width="4" height="15" rx="2" fill="#6e40c9"/>
+    <text x="76" y="161" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11.5" fill="#8b949e">Company</text>
+    <text x="152" y="161" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11.5" fill="#e6edf3">Celebal Technologies Pvt. Ltd.</text>
+
+    <!-- Education -->
+    <rect x="64" y="176" width="4" height="15" rx="2" fill="#6e40c9"/>
+    <text x="76" y="188" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11.5" fill="#8b949e">Education</text>
+    <text x="152" y="188" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11.5" fill="#e6edf3">TIET  ·  CGPA 8.64  ·  Data Science &amp; AI/ML</text>
+
+    <!-- Location -->
+    <rect x="64" y="203" width="4" height="15" rx="2" fill="#00d4ff"/>
+    <text x="76" y="215" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11.5" fill="#8b949e">Location</text>
+    <text x="152" y="215" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11.5" fill="#e6edf3">Jaipur, India</text>
+
+    <!-- Expertise -->
+    <rect x="64" y="230" width="4" height="15" rx="2" fill="#00d4ff"/>
+    <text x="76" y="242" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11.5" fill="#8b949e">Expertise</text>
+    <text x="152" y="242" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11.5" fill="#e6edf3">LLM  ·  RAG  ·  Agentic AI  ·  Neo4j  ·  NLP</text>
+
+    <!-- Building -->
+    <rect x="64" y="257" width="4" height="15" rx="2" fill="#ff6b6b"/>
+    <text x="76" y="269" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11.5" fill="#8b949e">Building</text>
+    <text x="152" y="269" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11.5" fill="#e6edf3">Healthcare Knowledge Graph AI</text>
+
+    <!-- Hackathons -->
+    <rect x="64" y="284" width="4" height="15" rx="2" fill="#ff6b6b"/>
+    <text x="76" y="296" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11.5" fill="#8b949e">Hackathons</text>
+    <text x="152" y="296" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11.5" fill="#e6edf3">EY Hackathon  ·  Google Hack4Change</text>
+
+    <!-- Quote -->
+    <text x="64" y="332" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11" fill="#6e40c9" font-style="italic" fill-opacity="0.9">"I automate things so I can build more things"</text>
+
+    <!-- ── DIVIDER ── -->
+    <rect x="516" y="18" width="1" height="314" fill="#30363d" fill-opacity="0.6"/>
+
+    <!-- ── RIGHT PANEL: IMPACT METRICS ── -->
+    <text x="542" y="50" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="3.5" fill="#6e40c9">IMPACT METRICS</text>
+
+    <!-- Card 1 -->
+    <rect x="542" y="60" width="330" height="72" rx="10" fill="#0d1117" stroke="#6e40c9" stroke-width="1" stroke-opacity="0.4"/>
+    <text x="564" y="96" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="30" font-weight="800" fill="#00d4ff">45%</text>
+    <text x="564" y="115" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11" fill="#8b949e">Manual Processing Time Reduced</text>
+    <rect x="542" y="130" width="330" height="3" rx="1.5" fill="#21262d"/>
+    <rect x="542" y="130" width="148.5" height="3" rx="1.5" fill="url(#accentH)"/>
+
+    <!-- Card 2 -->
+    <rect x="542" y="143" width="330" height="72" rx="10" fill="#0d1117" stroke="#6e40c9" stroke-width="1" stroke-opacity="0.4"/>
+    <text x="564" y="179" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="30" font-weight="800" fill="#6e40c9">+20%</text>
+    <text x="564" y="198" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11" fill="#8b949e">Forecast Accuracy Improved (LSTM)</text>
+    <rect x="542" y="213" width="330" height="3" rx="1.5" fill="#21262d"/>
+    <rect x="542" y="213" width="66" height="3" rx="1.5" fill="url(#accentH)"/>
+
+    <!-- Card 3 -->
+    <rect x="542" y="226" width="330" height="72" rx="10" fill="#0d1117" stroke="#ff6b6b" stroke-width="1" stroke-opacity="0.4"/>
+    <text x="564" y="262" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="30" font-weight="800" fill="#ff6b6b">60%</text>
+    <text x="564" y="281" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="11" fill="#8b949e">Faster Query Resolution (RAG Chatbot)</text>
+    <rect x="542" y="296" width="330" height="3" rx="1.5" fill="#21262d"/>
+    <rect x="542" y="296" width="198" height="3" rx="1.5" fill="#ff6b6b"/>
+
+    <!-- Right bottom note -->
+    <text x="542" y="330" font-family="system-ui,-apple-system,Arial,sans-serif" font-size="10" fill="#8b949e" letter-spacing="0.5">TIET Merit Scholarship  ·  Academic Excellence  ·  2022 – 2026</text>
+
+    <!-- Bottom accent bar -->
+    <rect x="0" y="346" width="900" height="4" fill="url(#accentH)"/>
+  </g>
+</svg>
